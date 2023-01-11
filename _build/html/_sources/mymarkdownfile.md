@@ -1,4 +1,4 @@
-# Python1
+# Recurrent Neural Network
 
 This is some sample text.
 
