@@ -1,4 +1,3 @@
-
 ---
 jupytext:
   cell_metadata_filter: -all
@@ -13,7 +12,7 @@ kernelspec:
   language: python
   name: python3
 ---
-# Notebooks with MyST Markdown
+# Python Programming 
 
 Jupyter Book also lets you write text-based notebooks using MyST Markdown.
 See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
@@ -51,15 +50,4 @@ If you have a markdown file and you'd like to quickly add YAML metadata to it, s
 
 ```
 jupyter-book myst init path/to/markdownfile.md
-```
-
-This is a small sample book to give you a feel for how book content is
-structured.
-It shows off a few of the major file types, as well as some sample content.
-It does not go in-depth into any particular topic - check out [the Jupyter Book documentation](https://jupyterbook.org) for more information.
-
-Check out the content pages bundled with this sample book to see more.
-
-```{tableofcontents}
-
 ```
