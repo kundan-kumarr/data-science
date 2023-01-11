@@ -14,9 +14,13 @@ kernelspec:
 ---
 # Python Programming 
 
-Jupyter Book also lets you write text-based notebooks using MyST Markdown.
-See [the Notebooks with MyST Markdown documentation](https://jupyterbook.org/file-types/myst-notebooks.html) for more detailed instructions.
-This page shows off a notebook written in MyST Markdown.
+Python is high level programming language which supports object-oriented and
+functional programming. It is dynamically-typed and garbage-collected.
+
+- Python is case sensitive.
+- Spacing is important(use of indentation).
+- [PEP8 Guidelines](https://www.python.org/dev/peps/pep-0008/).
+- Each line of code to **80** characters, though **99** is okay for certain use cases.  [IBM for this ruling](https://softwareengineering.stackexchange.com/questions/148677/why-is-80-characters-the-standard-limit-for-code-width)
 
 ## An example cell
 
