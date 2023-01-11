@@ -1,4 +1,3 @@
-# Python Programming
 
 ---
 jupytext:
