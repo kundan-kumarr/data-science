@@ -4,8 +4,8 @@
 format: jb-book
 root: intro
 chapters:
-- file: markdown
-- file: notebooks
-- file: markdown-notebooks
-- file: mymarkdownfile
-- file: notebooks1
+- file: machine_learning
+- file: deep_learning
+- file: cnn
+- file: recurrent_neural_net
+- file: Reinforcement_learning
